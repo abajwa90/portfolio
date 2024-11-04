@@ -39,7 +39,7 @@ const userData = {
     ],
   },
   resumeUrl:
-    "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
+    "https://drive.google.com/file/d/19vjkm_s273DkE612Lwir1F-kpUQ9lkpm/view?usp=drive_link",
   socialLinks: {
     linkedin: "https://linkedin.com/in/ameesa-bajwa",
     github: "https://github.com/abajwa90",
